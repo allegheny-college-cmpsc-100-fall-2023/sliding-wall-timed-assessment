@@ -48,7 +48,7 @@ If you achieve this objective, you will get a point for **variables** and **list
 <img width = "468" src = 
 "https://github.com/allegheny-college-cmpsc-100-fall-2023/sliding-wall-timed-assessment/blob/main/animate-one.gif" />
 
-Below the nested for-loop, animate the brick wall inside of a `while True:` loop. Be sure to set the rate with a `rate` command.
+Below the nested for-loop, animate the brick wall inside of a `while True:` loop. Be sure to set the rate with a `rate()` function.
 
 Using a `for-loop`, iterate through each brick in the list `bricks` and apply the same change to the `x` position of each brick, to that the whole wall moves either to the left or to the right. (DO NOT use compound shapes or functions here, as they are beyond the scope of this test. 
 
