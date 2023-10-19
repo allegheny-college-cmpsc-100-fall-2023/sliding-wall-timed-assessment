@@ -52,7 +52,7 @@ Below the nested for-loop, animate the brick wall inside of a `while True:` loop
 
 Using a `for-loop`, iterate through each brick in the list `bricks` and apply the same change to the `x` position of each brick, to that the whole wall moves either to the left or to the right. (DO NOT use compound shapes or functions here, as they are beyond the scope of this test. 
 
-If you achieve this objective, you will get points for **for-loops**, **lists**, **math-logic** and **while-loops**. 
+If you achieve this objective, you will get points for **for-loops**, **lists**, and **while-loops**. 
 
 Note that at some point the wall will leave the canvas entirely, and that's okay for the purposes of this test. 
 
