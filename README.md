@@ -10,7 +10,7 @@ Github will scrape your Trinket immediately after your last submission during th
 
 1. Open links below in a separate tab so you can easily reference these instructions. 
 2. Sign in to your [trinket.io](https://trinket.io/) account.
-3. Find the starter code at [this link]([https://trinket.io/glowscript/abdbbda7b3](https://trinket.io/library/trinkets/523fdaee8b)). Hit the "Remix" button on the upper right ot make your own copy. You can toggle "remix" if you want to reference the original code. 
+3. Find the starter code at [this link](https://trinket.io/library/trinkets/523fdaee8b). Hit the "Remix" button on the upper right ot make your own copy. You can toggle "remix" if you want to reference the original code. 
 4. Remember, you will have more chances to get points for each of these categories. You still have enough chances to get full credit even if you don't achieve any of the objectives on this test! 
 5. **For your code to receive credit, it must be documented with comments. You must also document the starter code. Complete the comments for one objective before moving on the next.**
 6. In this timed assessment, you have the chance to receive one point for **while loops**, one point for **variables**, and one point for **math & logic**. You should **NOT** use for loops or lists in this assessment. **Scroll down to [Objectives](#objectives) to learn how to get credit for each objective.**
@@ -22,38 +22,44 @@ Github will scrape your Trinket immediately after your last submission during th
 
 ### First steps
 
-Start by documenting lines 19-28 of the starter code with code comments. This will help you get to know the code so you can edit it successfully. It is also required to document all code (including the starter code) to receive credit for objectives. 
+Start by documenting the starter code (starting on line 11) with code comments. This will help you get to know the code so you can edit it successfully. **It is also required to document all code (including the starter code) to receive credit for objectives.**
 
-Be specific in your comments. For example, in lines 21-23, say what each variable is going to do in the code that follows. 
+Be specific in your comments. For example, in lines 11-12, say what each variable is going to do in the code that follows. 
 
-To get a point for each of the categories, complete the objective under the appropriate heading. Note that you do not have to go in the order suggested, and you can receive credit for any combination of the objectives completed. 
+Each objective below will get you points for one or more coding objectives. In some cases, you can get multiple points for the same code category. It is recommended that you complete step 2 before step 3. Otherwise, you can go in whatever order you like. 
 
-### Variables
+### ONE: Color one brick
 
-Create a variable called `clr` BEFORE the nested while loop and assign it a color value. Then, use `clr` to color the pyramids drawn inside the while loop. Document your code with comments and save. 
+Create a variable and store a color value (other than black or white) inside it. Use this variable AFTER the nested for-loop to color JUST ONE brick that you've selected from the list. You should choose a brick that is visible in the canvas. Save your work and coument it with comments.  
 
-### While Loops
+If you achieve this objective, you will get a point for **variables** and **lists**. 
 
-Notice that the nested while loops in the starter code draw a 20 X 20 square made of pyramids. Your objective is to add a third nested while loop and change the code so that the trinket draws a 20 X 20 X 20 cube made of pyramids. 
+### TWO: Animate the Wall 
 
-The output should look something like this, except if you've completed the **Variables** objective it will be the color you have assigned in your clr variable:
+Below the nested for-loop, animate the brick wall inside of a `while True:` loop. Be sure to set the rate with a `rate` command.
 
-![Example Output Cube of Pyramids](image.png)
+Using a `for-loop`, iterate through each brick in the list `bricks` and apply the same change to the `x` position of each brick, to that the whole wall moves either to the left or to the right. (DO NOT use compound shapes or functions here, as they are beyond the scope of this test. 
+
+If you achieve this objective, you will get points for **for-loops**, **lists**, **math-logic** and **while-loops**. 
+
+Document your code with comments and save. 
+
+### THREE: Split the wall in half
+
+**You should complete step two before completing this step.** Inside the for-loop you created in step two, add an if-else statement so that bricks on one side of the orign move to the left, and the other move to the right. In the resulting image, the wall splits in half like sliding doble doors. 
+
+If you achieve this objective, you will get points for **math-logic** and **if-else**. 
 
 Document your code with comments and save. 
 
-### Math & Logic 
+### FOUR: Fortify the wall
 
-Notice that the two while loops in the starter code use the same comparison operation (`<`) and math operation (`+`) to complete the square.
+Right now, the wall's dimensions are 10 X 10 X 1 bricks. Add a third nested loop to increase the wall's z-dimension, so that the dimensions become 10 X 10 X 4. 
 
-To receive credit for this objective, you will change the math operation that determines a pyramid's place on **one** of the three axes to a subtraction (`-`) operation, and then alter a couple of other lines of code so that the overall output remains the same. For example, you could change the `+` on line 26 or 28 of the starter code to a `-`, and then update other parts of the code as needed. If you've already completed the **While Loops** objective, you could choose to change the operation that affects the z-axis.
-
-Again, when complete, this change should NOT affect the output on the canvas. It is different method of achieving the same objective. 
-
-HINT: Watch out for infinite loops!
-
-Document your code with comments and save. 
+If you achieve this objective, you will get points for **for-loops**. 
 
 ### When finished
 
 When you have completed as many objectives as you can in the allotted time and documented all your code with comments, add your trinket link to LINK.md (steps 7-9) of instructions. Again, there is no Gatorgrader in this repo, so don't waste time looking for checks. 
+
+MAKE SURE the lastest version of your Trinket is saved, and you link you have shared is NOT the same as the starter-code link. 
