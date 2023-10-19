@@ -32,9 +32,11 @@ Each objective below will get you points for one or more coding objectives. In s
 
 ### ONE: Color one brick
 
+<img width="468" alt="image" src="https://github.com/allegheny-college-cmpsc-100-fall-2023/sliding-wall-timed-assessment/assets/8368413/f8348aa3-ea0b-4ee8-ba42-aa41cea61353">
+
 Create a variable and store a color value (other than black or white) inside it. Use this variable AFTER the nested for-loop to color JUST ONE brick that you've selected from the list. You should choose a brick that is visible in the canvas. Save your work and coument it with comments.  
 
-If you achieve this objective, you will get a point for **variables** and **lists**. 
+If you achieve this objective, you will get a point for **variables** and **lists**. Your choice of color and brick can be different than those in the screenshot, as long as the colored brick is visible on the canvas. 
 
 ### TWO: Animate the Wall 
 
