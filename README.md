@@ -27,7 +27,7 @@ Github will scrape your Trinket immediately after your last submission during th
 <img width = "468" src = 
 "https://github.com/allegheny-college-cmpsc-100-fall-2023/sliding-wall-timed-assessment/blob/main/complete.gif" />
 
-&uarr; If you complete all four objectives, your canvas will look something like this. Each step has a screenshot of what it would look like in isolation beneath the heading. 
+&uarr; If you complete all four objectives, your canvas will look something like this. Each step has a screenshot of what it might look like in isolation beneath the heading (although certain properties, like speed or color, may vary). 
 
 Start by documenting the starter code (starting on line 11) with code comments. This will help you get to know the code so you can edit it successfully. **It is also required to document all code (including the starter code) to receive credit for objectives.**
 
@@ -59,6 +59,9 @@ Note that at some point the wall will leave the canvas entirely, and that's okay
 Document your code with comments and save. 
 
 ### THREE: Split the wall in half
+
+<img width = "468" src = 
+"https://github.com/allegheny-college-cmpsc-100-fall-2023/sliding-wall-timed-assessment/blob/main/split.gif" />
 
 **You should complete step two before completing this step.** Inside the for-loop you created in step two, add an if-else statement so that bricks on one side of the orign move to the left, and the other move to the right. In the resulting image, the wall splits in half like sliding doble doors. 
 
