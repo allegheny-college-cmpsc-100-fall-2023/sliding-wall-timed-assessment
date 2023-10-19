@@ -24,6 +24,7 @@ Github will scrape your Trinket immediately after your last submission during th
 
 ### First steps
 
+![image](https://github.com/allegheny-college-cmpsc-100-fall-2023/sliding-wall-timed-assessment/assets/8368413/eaf7a34f-e56b-42c5-af86-7060e048b8dd)
 
 &uarr; If you complete all four objectives, your canvas will look something like this. Each step has a screenshot of what it would look like in isolation beneath the heading. 
 
