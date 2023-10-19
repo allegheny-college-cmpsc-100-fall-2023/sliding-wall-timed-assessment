@@ -24,6 +24,9 @@ Github will scrape your Trinket immediately after your last submission during th
 
 ### First steps
 
+
+&uarr; If you complete all four objectives, your canvas will look something like this. Each step has a screenshot of what it would look like in isolation beneath the heading. 
+
 Start by documenting the starter code (starting on line 11) with code comments. This will help you get to know the code so you can edit it successfully. **It is also required to document all code (including the starter code) to receive credit for objectives.**
 
 Be specific in your comments. For example, in lines 11-12, say what each variable is going to do in the code that follows. 
@@ -59,6 +62,8 @@ If you achieve this objective, you will get points for **math-logic** and **if-e
 Document your code with comments and save. 
 
 ### FOUR: Fortify the wall
+
+![image](https://github.com/allegheny-college-cmpsc-100-fall-2023/sliding-wall-timed-assessment/assets/8368413/544cf959-9c60-45a8-aefc-9708f2c62ca9)
 
 Right now, the wall's dimensions are 10 X 10 X 1 bricks. Add a third nested loop to increase the wall's z-dimension, so that the dimensions become 10 X 10 X 4. 
 
