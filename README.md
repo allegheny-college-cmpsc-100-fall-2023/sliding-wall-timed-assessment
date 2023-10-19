@@ -1,6 +1,8 @@
 # Timed Assessment | Sliding Wall 
 
-This is a timed assessment. It is "open book" and you may look things up online and reference course materials in completing the assessment. However, you may not copy and paste code from outside sources (it is okay to copy and paste your own code), and you should be aware that a complete answer to the prompts is not readily available online. You must use coding concepts in a unique way in order to complete the stated objectives. Given that you have limited time, be strategic about spending time looking things up when in fact you may have the answer in your memory. 
+This is a timed assessment. It is "open book" and you may look things up online and reference course materials in completing the assessment. However, you may not copy and paste code from outside sources (it is okay to copy and paste your own code), and you should be aware that a complete answer to the prompts is not readily available online. You must use coding concepts in a unique way in order to complete the stated objectives. Given that you have limited time, be strategic about spending it looking things up when in fact you may have the answer in your memory. 
+
+This test is due at 8PM tongiht. Late submissions might not receive credit. It is STRONGLY recommended that you begin the class during our normal lecture period, as the professor might not be available to answer questions about the test after that time frame. 
 
 This timed assessment is regulated by the school's honor code. You can't help or receive help from other people during the exam period. Please refrain from discussing the test with other students for two weeks, in case a classmate takes the test at a later date. (You also cannot discuss the tests with students in future sections of this class who haven't taken it.)
 
