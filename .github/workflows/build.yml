@@ -1,0 +1,50 @@
+# Basic workflow
+name: build
+
+# Controls when the action will run
+# Workflow begins with push or PR events
+# Focuses on the master branch only
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+permissions: 
+  contents: write
+
+# Create one single job
+# This job performs all necessary checks
+jobs:
+  build:
+    # Use the latest version of Ubuntu
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        # Performs all actions on different versions of Python
+        python-version: ["3.10"]
+    # Define the workflow steps
+    steps:
+        # Setup Python for the current language version
+        - name: Setup Python ${{ matrix.python-version }}
+          if: always()
+          uses: actions/setup-python@v1
+          with:
+            python-version: ${{ matrix.python-version }}
+        # Install pip
+        - name: Install Pip & Dependencies
+          if: always()
+          run: |
+            pip install -U pip
+            pip install requests        
+        # Create main.py from trinket URL and commit for grading
+        - uses: actions/checkout@v3
+        - name: Create main.py from URL
+          run: python config/scrape.py
+        - name: Commit main.py for grading
+          run: |
+            git config --global user.name 'howshekilledit'
+            git config --global user.email 'howshekilledite@users.noreply.github.com'
+            git add .
+            git commit -am "write main.py fron trinket url"
+            git push
