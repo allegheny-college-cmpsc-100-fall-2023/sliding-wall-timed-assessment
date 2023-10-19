@@ -44,6 +44,8 @@ Using a `for-loop`, iterate through each brick in the list `bricks` and apply th
 
 If you achieve this objective, you will get points for **for-loops**, **lists**, **math-logic** and **while-loops**. 
 
+Note that at some point the wall will leave the canvas entirely, and that's okay for the purposes of this test. 
+
 Document your code with comments and save. 
 
 ### THREE: Split the wall in half
