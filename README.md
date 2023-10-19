@@ -33,7 +33,7 @@ Start by documenting the starter code (starting on line 11) with code comments. 
 
 Be specific in your comments. For example, in lines 11-12, say what each variable is going to do in the code that follows. 
 
-Each objective below will get you points for one or more coding objectives. In some cases, you can get multiple points for the same code category. It is recommended that you complete step 2 before step 3. Otherwise, you can go in whatever order you like. 
+Each objective below will get you points for one or more coding objectives. You can get multiple points for some code categories within this one test. It is recommended that you complete step 2 before step 3. Otherwise, you can go in whatever order you like. 
 
 ### ONE: Color one brick
 
