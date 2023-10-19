@@ -1,8 +1,8 @@
-# Timed Assessment | Cube of Pyramids
+# Timed Assessment | Sliding Wall 
 
 This is a timed assessment. It is "open book" and you may look things up online and reference course materials in completing the assessment. However, you may not copy and paste code, and you should be aware that a complete answer to the prompts is not readily available online. You must use coding concepts in a unique way in order to complete the stated objectives. Given that you have limited time, be strategic about spending time looking things up when in fact you may have the answer in your memory. 
 
-This timed assessment is regulated by the school's honor code. You can't help or receive help from other students taking the test during the exam period. Please refrain from discussing the test with other students for two weeks, in case a classmate takes the test at a later date. (You also cannot discuss the tests with students in future sections of this class who haven't taken it.)
+This timed assessment is regulated by the school's honor code. You can't help or receive help from other people during the exam period. Please refrain from discussing the test with other students for two weeks, in case a classmate takes the test at a later date. (You also cannot discuss the tests with students in future sections of this class who haven't taken it.)
 
 Github will scrape your Trinket immediately after your last submission during the exam period. Changes made to your Trinket after the exam will not be graded. **There is no Gatorgrader in this repo, so don't look for checks!**
 
@@ -10,7 +10,7 @@ Github will scrape your Trinket immediately after your last submission during th
 
 1. Open links below in a separate tab so you can easily reference these instructions. 
 2. Sign in to your [trinket.io](https://trinket.io/) account.
-3. Find the starter code at [this link](https://trinket.io/glowscript/abdbbda7b3). Hit the "Remix" button on the upper right ot make your own copy. You can toggle "remix" if you want to reference the original code. 
+3. Find the starter code at [this link]([https://trinket.io/glowscript/abdbbda7b3](https://trinket.io/library/trinkets/523fdaee8b)). Hit the "Remix" button on the upper right ot make your own copy. You can toggle "remix" if you want to reference the original code. 
 4. Remember, you will have more chances to get points for each of these categories. You still have enough chances to get full credit even if you don't achieve any of the objectives on this test! 
 5. **For your code to receive credit, it must be documented with comments. You must also document the starter code. Complete the comments for one objective before moving on the next.**
 6. In this timed assessment, you have the chance to receive one point for **while loops**, one point for **variables**, and one point for **math & logic**. You should **NOT** use for loops or lists in this assessment. **Scroll down to [Objectives](#objectives) to learn how to get credit for each objective.**
