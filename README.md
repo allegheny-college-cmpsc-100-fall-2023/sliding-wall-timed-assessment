@@ -71,7 +71,7 @@ Document your code with comments and save.
 
 ### FOUR: Fortify the wall
 
-![image](https://github.com/allegheny-college-cmpsc-100-fall-2023/sliding-wall-timed-assessment/assets/8368413/544cf959-9c60-45a8-aefc-9708f2c62ca9)
+<img width = "468" src = "https://github.com/allegheny-college-cmpsc-100-fall-2023/sliding-wall-timed-assessment/assets/8368413/544cf959-9c60-45a8-aefc-9708f2c62ca9">
 
 Right now, the wall's dimensions are 10 X 10 X 1 bricks. Add a third nested loop to increase the wall's z-dimension, so that the dimensions become 10 X 10 X 4. 
 
