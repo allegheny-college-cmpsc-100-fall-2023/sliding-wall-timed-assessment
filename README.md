@@ -24,7 +24,8 @@ Github will scrape your Trinket immediately after your last submission during th
 
 ### First steps
 
-![completed-canvas](https://github.com/allegheny-college-cmpsc-100-fall-2023/sliding-wall-timed-assessment/blob/main/complete.gif)
+<img width = "468" src = 
+"https://github.com/allegheny-college-cmpsc-100-fall-2023/sliding-wall-timed-assessment/blob/main/complete.gif" />
 
 &uarr; If you complete all four objectives, your canvas will look something like this. Each step has a screenshot of what it would look like in isolation beneath the heading. 
 
@@ -43,6 +44,9 @@ Create a variable and store a color value (other than black or white) inside it.
 If you achieve this objective, you will get a point for **variables** and **lists**. Your choice of color and brick can be different than those in the screenshot, as long as the colored brick is visible on the canvas. 
 
 ### TWO: Animate the Wall 
+
+<img width = "468" src = 
+"https://github.com/allegheny-college-cmpsc-100-fall-2023/sliding-wall-timed-assessment/blob/main/animate-one.gif" />
 
 Below the nested for-loop, animate the brick wall inside of a `while True:` loop. Be sure to set the rate with a `rate` command.
 
