@@ -13,7 +13,7 @@ Github will scrape your Trinket immediately after your last submission during th
 1. Open links below in a separate tab so you can easily reference these instructions. 
 2. Sign in to your [trinket.io](https://trinket.io/) account.
 3. Find the starter code at [this link](https://trinket.io/library/trinkets/523fdaee8b). Hit the "Remix" button on the upper right ot make your own copy. You can toggle "remix" if you want to reference the original code. 
-4. Remember, you will have more chances to get points for each of these categories. You still have enough chances to get full credit even if you don't achieve any of the objectives on this test! 
+4. Remember, you will have more chances to get points for each of these categories. 
 5. **For your code to receive credit, it must be documented with comments. You must also document the starter code. Complete the comments for one objective before moving on the next.**
 6. When you are done, hit Save (to the left of the remix button).
 7. Click the share-tree button near the top-left, then click "Link" and copy your link.
