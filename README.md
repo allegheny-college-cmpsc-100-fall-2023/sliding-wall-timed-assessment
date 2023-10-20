@@ -49,7 +49,7 @@ If you achieve this objective, you will get a point for **variables** and **list
 
 Below the nested for-loop, animate the brick wall inside of a `while True:` loop. Be sure to set the framerate with a `rate()` function.
 
-Using a `for-loop`, iterate through each brick in the list `bricks` and apply the same change to the `x` position of each brick, so that the whole wall moves either to the left or to the right. (DO NOT use compound shapes or custom functions here, as they are beyond the scope of this test. 
+Using a `for-loop`, iterate through each brick in the list `bricks` and apply the same change to the `x` position of each brick, so that the whole wall moves either to the left or to the right. (DO NOT use compound shapes or custom functions here, as they are beyond the scope of this test.)
 
 If you achieve this objective, you will get points for **for-loops**, **lists**, and **while-loops**. 
 
