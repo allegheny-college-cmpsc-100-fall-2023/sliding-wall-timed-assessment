@@ -36,7 +36,7 @@ Each objective below will get you points for one or more coding objectives. You 
 
 ### ONE: Color one brick
 
-<img width="468" alt="image" src="assets/color1.png>
+<img width="468" alt="image" src="assets/color1.png">
 
 Create a variable and store a color value (other than black or white) inside it. Use this variable AFTER the nested for-loop to color JUST ONE brick that you've selected from the list. You should choose a brick that is visible in the canvas. Save your work and document it with comments.  
 
