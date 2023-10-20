@@ -38,7 +38,7 @@ Each objective below will get you points for one or more coding objectives. You 
 
 <img width="468" alt="image" src="https://github.com/allegheny-college-cmpsc-100-fall-2023/sliding-wall-timed-assessment/assets/8368413/f8348aa3-ea0b-4ee8-ba42-aa41cea61353">
 
-Create a variable and store a color value (other than black or white) inside it. Use this variable AFTER the nested for-loop to color JUST ONE brick that you've selected from the list. You should choose a brick that is visible in the canvas. Save your work and coument it with comments.  
+Create a variable and store a color value (other than black or white) inside it. Use this variable AFTER the nested for-loop to color JUST ONE brick that you've selected from the list. You should choose a brick that is visible in the canvas. Save your work and document it with comments.  
 
 If you achieve this objective, you will get a point for **variables** and **lists**. Your choice of color and brick can be different than those in the screenshot, as long as the colored brick is visible on the canvas. 
 
@@ -47,9 +47,9 @@ If you achieve this objective, you will get a point for **variables** and **list
 <img width = "468" src = 
 "https://github.com/allegheny-college-cmpsc-100-fall-2023/sliding-wall-timed-assessment/blob/main/animate-one.gif" />
 
-Below the nested for-loop, animate the brick wall inside of a `while True:` loop. Be sure to set the rate with a `rate()` function.
+Below the nested for-loop, animate the brick wall inside of a `while True:` loop. Be sure to set the framerate with a `rate()` function.
 
-Using a `for-loop`, iterate through each brick in the list `bricks` and apply the same change to the `x` position of each brick, to that the whole wall moves either to the left or to the right. (DO NOT use compound shapes or custom functions here, as they are beyond the scope of this test. 
+Using a `for-loop`, iterate through each brick in the list `bricks` and apply the same change to the `x` position of each brick, so that the whole wall moves either to the left or to the right. (DO NOT use compound shapes or custom functions here, as they are beyond the scope of this test. 
 
 If you achieve this objective, you will get points for **for-loops**, **lists**, and **while-loops**. 
 
@@ -62,7 +62,7 @@ Document your code with comments and save.
 <img width = "468" src = 
 "https://github.com/allegheny-college-cmpsc-100-fall-2023/sliding-wall-timed-assessment/blob/main/split.gif" />
 
-**You should complete step two before completing this step.** Inside the for-loop you created in step two, add an if-else statement so that bricks on one side of the orign move to the left, and the other move to the right. In the resulting image, the wall splits in half like sliding doble doors. 
+**You should complete step two before completing this step.** Inside the for-loop you created in step two, add an if-else statement so that bricks on one side of the orign move to the left, and the other move to the right. In the resulting image, the wall splits in half like sliding double doors. 
 
 If you achieve this objective, you will get points for **math-logic** and **if-else**. 
 
