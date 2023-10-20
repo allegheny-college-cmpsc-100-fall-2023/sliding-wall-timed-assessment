@@ -24,7 +24,7 @@ Github will scrape your Trinket immediately after your last submission during th
 ### First steps
 
 <img width = "468" src = 
-"https://github.com/allegheny-college-cmpsc-100-fall-2023/sliding-wall-timed-assessment/blob/main/complete.gif" />
+"complete.gif" />
 
 &uarr; If you complete all four objectives, your canvas will look something like this. Each step has a screenshot of what it might look like in isolation beneath the heading (although certain properties, like speed or color, may vary). 
 
@@ -36,7 +36,7 @@ Each objective below will get you points for one or more coding objectives. You 
 
 ### ONE: Color one brick
 
-<img width="468" alt="image" src="https://github.com/allegheny-college-cmpsc-100-fall-2023/sliding-wall-timed-assessment/assets/8368413/f8348aa3-ea0b-4ee8-ba42-aa41cea61353">
+<img width="468" alt="image" src="assets/color1.png>
 
 Create a variable and store a color value (other than black or white) inside it. Use this variable AFTER the nested for-loop to color JUST ONE brick that you've selected from the list. You should choose a brick that is visible in the canvas. Save your work and document it with comments.  
 
@@ -45,7 +45,7 @@ If you achieve this objective, you will get a point for **variables** and **list
 ### TWO: Animate the Wall 
 
 <img width = "468" src = 
-"https://github.com/allegheny-college-cmpsc-100-fall-2023/sliding-wall-timed-assessment/blob/main/animate-one.gif" />
+"animate-one.gif" />
 
 Below the nested for-loop, animate the brick wall inside of a `while True:` loop. Be sure to set the framerate with a `rate()` function.
 
@@ -60,7 +60,7 @@ Document your code with comments and save.
 ### THREE: Split the wall in half
 
 <img width = "468" src = 
-"https://github.com/allegheny-college-cmpsc-100-fall-2023/sliding-wall-timed-assessment/blob/main/split.gif" />
+"split.gif" />
 
 **You should complete step two before completing this step.** Inside the for-loop you created in step two, add an if-else statement so that bricks on one side of the orign move to the left, and the other move to the right. In the resulting image, the wall splits in half like sliding double doors. 
 
@@ -70,7 +70,7 @@ Document your code with comments and save.
 
 ### FOUR: Fortify the wall
 
-<img width = "468" src = "https://github.com/allegheny-college-cmpsc-100-fall-2023/sliding-wall-timed-assessment/assets/8368413/544cf959-9c60-45a8-aefc-9708f2c62ca9">
+<img width = "468" src = "assets/fortify.png">
 
 Right now, the wall's dimensions are 10 X 10 X 1 bricks. Add a third nested loop to increase the wall's z-dimension, so that the dimensions become 10 X 10 X 4. 
 
