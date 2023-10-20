@@ -74,6 +74,8 @@ Document your code with comments and save.
 
 Right now, the wall's dimensions are 10 X 10 X 1 bricks. Add a third nested loop to increase the wall's z-dimension, so that the dimensions become 10 X 10 X 4. 
 
+Document your code with comments and save. 
+
 If you achieve this objective, you will get points for **for-loops**. 
 
 ### When finished
